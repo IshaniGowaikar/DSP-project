@@ -1,0 +1,13 @@
+ ****** HSPICE -- M-2017.03-SP1-1 win64 (Jun 27 2017) ******                    
+  Copyright (c) 1986 - 2017 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: \\nasstore.engr.colostate.edu\students\UNGRAD\UE\ishani\home\MATLA
+  Command line options: C:\synopsys\Hspice_M-2017.03-SP1-1\WIN64\hspice.com -i \\nasstore.engr.colostate.edu\students\UNGRAD\UE\ishani\home\MATLAB\example-1.sp -o \\nasstore.engr.colostate.edu\students\UNGRAD\UE\ishani\home\MATLAB\example-1
+  lic: No 'set SNPSLMD_LICENSE_FILE or LM_LICENSE_FILE' in current environment' 
+  lic: Unable to checkout (hspice) 
+  lic:   
+ lic: total license checkout elapse time:        0.00(s)
